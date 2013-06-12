@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CoreDB">
+  <DataContextMoniker Name="/CoreDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8c5fe058-019a-4142-98c7-c781f28c73b4" absoluteBounds="0.75, 3.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_Chapter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="299f5c4c-df34-4e27-b17c-4e7e7a0b1e13" absoluteBounds="0.76500000000000012, 3.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bad6c02f-31f7-49cf-ad18-f96ff6e19345" absoluteBounds="0.75, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_Tome" />
+      <nestedChildShapes>
+        <elementListCompartment Id="98ce3311-2e59-4ab5-8e27-36d9bfa1a5b9" absoluteBounds="0.765, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bc50f5b6-dcd6-4cc2-a75c-0e4ffff53028" absoluteBounds="3.5, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_Page" />
+      <nestedChildShapes>
+        <elementListCompartment Id="513b3a5b-b71a-4f99-96fa-64ace7dc4eae" absoluteBounds="3.5150000000000006, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0bde4940-a9b3-4c71-a49d-0ce9fe381799" absoluteBounds="5.875, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_History" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b265264b-7774-4f11-9624-8887fe63d958" absoluteBounds="5.89, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3e19047f-8637-4f8d-a062-2f3cb388ee22" absoluteBounds="3.5, 2.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_Keyword" />
+      <nestedChildShapes>
+        <elementListCompartment Id="63d12589-21a7-4a01-b73e-309757764415" absoluteBounds="3.515, 3.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71cce3a1-a882-4a34-b8b5-8f21cf01083a" absoluteBounds="5.875, 2, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_note" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e1fd2037-2779-493c-a3be-32dce79850f1" absoluteBounds="5.89, 2.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="77e707dc-6b8f-4795-bfbe-d345ad803b88" absoluteBounds="5.875, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_Requirement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="20af3413-5e88-401a-aba8-a730df50019a" absoluteBounds="5.8900000000000006, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="859f71b5-c26f-4ab0-bfcc-12752341d18e" absoluteBounds="0.75, 1.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/CoreDBDataContext/tbl_Book" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5afa41aa-4b25-434e-9b5f-8189075a6eed" absoluteBounds="0.76500000000000012, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
